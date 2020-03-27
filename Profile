@@ -1,0 +1,36 @@
+Abstract
+In Los Angeles County, California, prostate cancer (PC) is the second primary cause of cancer-related death in men. Previous studies have focused on sociodemographic factors influencing racial and ethnic inequalities in health in the United States. However, research was lacking regarding if and to what extent social-ecological factors predict PC screening, specifically among African American men residing in Los Angeles County. The purpose of this quantitative study, using a cross-sectional design, was to identify the factors that may align with PC screening among African American men living in Los Angeles. African American men aged 45 and older were the targeted population for this study. Individuals included in this study were those who had a digital rectal exam or prostate-specific antigen test for PC screening. The sociodemographic risk factors examined to determine factors associated with PC screening of AA men in Los Angeles included age, income, education, and marital status. This study was guided by the socioecological theory. Data for this study involved secondary data from the SEER/California Health Interview Survey. I used the Statistical Package for Social Sciences (SPSS) IBM software version 25 for analysis based on the research questions and hypothesis. Inferential statistics were performed using chi-square, logistic regression, and stepwise logistic regression; age and education remained significant predictors of PC screening as did age when combined with married with no kids’ family support type. Potential positive social change from this study could provide meaningful evidence-based and informed health intervention approaches for individuals at risk of developing PC and for individuals who are less likely to be screened for PC.
+
+What Inspired Me to Study Public Health
+I am a Software Development Principal Engineer with DELL EMC, but I was inspired to study public health after volunteering on UMU-ARO USA (AAUSA) free medical mission to Aro Chukwu, Abia State in Nigeria, 2008. Working with disadvantaged populations who visited the clinic, I realized that through public health, I could directly affect whole communities as well as individuals. Also, as the current Executive President of All Aro USA (UMU ARO USA - AAUSA), I am overseeing the management of our Medical Clinic at Arochukwu Nigeria, an organizational-based medical clinic. Therefore, I want to use my technical skills and talents to create an impact and positive change in groups and individuals and be able to empower individuals and populations so that they can be their own health navigators.
+Most Rewarding Experience
+The most rewarding experience in my public health adventure thus far has been my role in community organizing on behalf of a non-profit health and development advocacy organization in America, Umu-Aro USA Inc. (All Aro USA) that focuses on advancing federal and state policies that promote healthcare delivery system within the Arochukwu community in Nigeria. Truly, working in partnership with other community-based organizations and cultivating grassroots support for policies that promote healthcare within the community has been thrilling. 
+Another most rewarding experience in my public health adventure was when I completed and defended my dissertation paper, and have it published in PreQuest. My paper was on “Factors Associated with Prostate Cancer Screening among African American Men in California” particularly, Los Angeles County. My best success in this paper is understanding the issues facing this targeted population. Also, when I realized that my research could inform policy and thus have an impact at the targeted population level, I was gratified. 
+Right now, I am collaborating with the community leaders in setting up Cancer Diagnostic Center in our medical clinic and to create a health information event that could reach out to the community. 
+
+Technical Skills
+•	Provide technical support in installations and maintenances of network systems
+•	Managing and monitoring the operational activities of the network including design, installation, configuration, maintenance, and security
+•	Monitoring utilization trends, managing network performance, and assuring maximum uptime
+•	Maintain network infrastructure and perform modifications and expansions when needed
+•	Designing, configuring and maintaining network infrastructure components, troubleshooting network to diagnose system problems
+•	Recommend new networking technologies to improve performance, reliability and scalability
+•	Develop and enforce standard operating procedures to ensure quality and productivity
+•	Design network topologies and Identify and correct network non-compliance issues
+•	Providing network engineering and design in support of enterprise network devices and services 
+•	Designing and providing support of Routers, Switches, Security Solutions, VPNs, L4-7 Load Balancers, SD-WAN and Network Management Solutions across LAN/WAN
+•	VMware Knowledge Base - VxRail Solution and AWS Fundamental
+•	Providing support as an escalation for support groups 
+•	Documenting system maintenance, enhancements, and performance for effective network operations and management 	•	Analyzing network functions and evaluating the services provided
+•	Developing a plan of action and recommendations, identifying milestones and issues to be addressed, and generating reports as required
+•	Performing ongoing analysis, capacity planning, and technical tuning of the network systems to improve performance
+•	Identifying, locating, resolving, and repairing problems, installing and configuring software upgrades, file sharing, and domain security protocols
+•	Performing root cause analysis of network issues and recommend corrective actions
+•	Respond promptly during outages and recommend solutions for performance issues
+•	Work closely with other Network Engineers to plan and complete assigned tasks within deadlines
+•	Monitoring, testing, analyzing and evaluating the existing network environment and optimize it based on resiliency, technological advancements, and cost
+•	Driving quality into the metrics we report, including measurement of issues, network capacity, vendor equipment/failures analysis, and network performance, as well as a continual assessment of the quality and effectiveness of network monitoring and alerting
+•	Excellent communication skills
+•	Team Worker
+
+
